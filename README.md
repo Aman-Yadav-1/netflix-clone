@@ -1,3 +1,22 @@
+# Netflix Clone Application
+
+A react based app built as a clone of netflix streaming platform.
+
+The Application is built Using
+* Axios
+* TMDb API
+* React-icons
+* SASS
+* JSON
+* VSCode
+* React Router Dom
+
+<b>Snapshots:-</b><br><br><br>
+<img src="https://github.com/Aman-Yadav-1/netflix-clone/blob/main/home.png" height="400px" width="900px"/><br><br>
+<img src="https://github.com/Aman-Yadav-1/netflix-clone/blob/main/main.png" height="400px" width="900px"/>
+
+<br><br><br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
