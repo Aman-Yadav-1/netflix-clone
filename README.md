@@ -2,7 +2,7 @@
 
 A react based app built as a clone of netflix streaming platform.<br><br>
 Site is deployed using netlify : 
-<a href="https://netflix-clone-aman.netlify.app/">click here</a><br><br>
+<a href="https://netlive-aman.netlify.app/">click here</a><br><br>
 The Application is built Using
 * Axios
 * TMDb API
